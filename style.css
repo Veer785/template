@@ -1,0 +1,85 @@
+   * {
+   background-color: rgb(16, 18, 18);
+ }
+
+ .viewButton {
+   color: green;
+padding: 20px;
+border: 3px solid green;
+border-radius: 6px;
+display: inline-block;
+transition: all 0.3s ease 0s;
+ }
+
+ .viewButton:hover{
+   color: yellowgreen;
+border-radius: 50px;
+border-color:  blue;
+transition: all 0.3s ease 0s;
+
+ }
+
+ .viewContainer {
+   display: none;
+ }
+
+ .box {
+   height: 75px;
+   width: 90%;
+   margin: 2%;
+   border: 3px solid rgb(255, 94, 131);
+   border-radius: 10px;
+   padding: 2rem;
+ }
+
+ .box1 {
+   height: 10px;
+   width: 300px;
+   margin: 1%;
+   border: 3px solid rgb(255, 94, 131);
+   border-radius: 10px;
+   padding: 2rem;
+   display: inline-block;
+   
+ }
+
+ .container {
+   display: flex;
+   margin: 10px;
+   padding-top: 10px;
+ }
+
+ .boxOne{
+   height: 450px;
+   width: 100px;
+   border: 3px solid rgb(225, 94, 131);
+   margin: 1%;
+   border-radius: 10px;
+  
+ }
+  
+  .boxTwo{
+   height: 450px;
+   width: 910px;
+   border: 3px solid rgb(225, 94, 131);
+   margin: 1%;
+   border-radius: 10px;
+  
+  }
+   
+   .boxThree{
+      height: 450px;
+      width: 100px;
+      border: 3px solid rgb(255, 94, 131);
+      margin: 1%;
+      border-radius: 10px;
+      
+   }
+
+  
+
+
+
+
+
+
